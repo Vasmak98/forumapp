@@ -23,7 +23,9 @@
           <li class="nav-item">
               <a class="nav-link" href="#">Τράπεζα</a>
           </li>
-          <li class="nav-item ml-auto">
+        </ul>
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
             <a class="nav-link" href="#">Log out</a>
         </li>        
       </ul>
